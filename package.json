@@ -1,0 +1,12 @@
+{
+  "name": "thumbdna_website",
+  "version": "1.0.0",
+  "description": "a landing page with a waitlist for ThumbDNA Mobile App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
